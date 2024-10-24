@@ -1,2 +1,2 @@
 # Planify
-Task Manager Web-App
+Task Planning Web-App
